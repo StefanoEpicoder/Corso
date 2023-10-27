@@ -1,0 +1,140 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-position: center center;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    padding: 15px;
+    min-height: 100vh;
+}
+body h1{font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+        font-weight:bold;
+}
+body p{color: #393d41;}
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+
+main{text-align: center;}
+
+
+header{
+       background-position: center center;
+       text-align: center;
+       margin-bottom: 1.5em;
+       
+       }
+
+header h1{font-size: 35px;}
+
+#cont1{ background-color: black;
+    height: 40px;
+    margin-bottom: 0;
+    padding: 40px
+}
+
+#epicode{margin-bottom: 20px;
+    
+}
+
+button {padding: 10px 7px;
+    background-color: #f04c2f ;
+    border: 0;
+    color: white;
+    font-weight:bold;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+
+h1 {color: #25a2c3 ;
+    font-weight: bold;
+    margin: 0;
+    font-size: 20px;
+    
+
+}
+
+
+
+#cont2{ background-image: url(../images/banner.jpg);
+        background-size: cover;
+        line-height: 1.5;
+        
+}
+
+
+
+#cont3{ margin-top: 20px;}
+    
+p{ line-height: 1.8;}
+
+#laptop{
+    border-radius: 150px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+section{background-color:#e22d0e;
+    margin-bottom: 1.5em;
+    padding-top: 1em;
+    
+
+        
+}
+
+section h1{color: white;
+            margin-top: 20px;
+}
+section p{color: white;
+    font-style: italic;
+    line-height: 2.0; 
+}
+
+section h2{color: white;}
+
+section h5{color: white;
+                    
+}
+
+#cont7{border: 1px solid #dee1e3;
+    border-radius:6px 0px;
+
+
+}
+
+aside a{color: #25a2c3;
+       font-weight:bold;
+       font-size: 20px;
+       
+}
+
+#cont8{border: 1px solid #dee1e3;
+    border-radius:6px 0px;
+}
+
+
+#cont9{border: 1px solid #dee1e3;
+    border-radius:6px 0px;}
+
+footer{background-color: #25a2c3;
+       text-align: center;
+       
+       
+}
+
+footer h1{color: white;
+        font-size: 40px;     
+}
+
+footer a {color: white;}
+
+footer p{color: white;}
+
+
+
+
