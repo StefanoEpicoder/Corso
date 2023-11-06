@@ -1,0 +1,171 @@
+/*Impostazioni generali */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-position: center center;
+    background-color: #E9EDEE;
+    
+
+}
+
+#contTesta {
+            background-color:#222f3f;
+            padding: 10px;
+}
+
+nav{
+    background-color: #364759;
+}
+
+nav a{
+        line-height: 2.0;
+        margin-left: 18px;
+        text-decoration: none;
+        color: white;
+        font-size: small;
+}
+
+
+#parHead{
+        background-color: #F66501;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+    
+
+}
+
+main{
+    margin: 20px;
+    
+}
+
+#Holiday{
+        background-image: url(../images/bg-image.png);
+        color: white;
+        text-align: center;
+        background-size: contain;
+}
+
+#Holiday p{
+           font-size: 11px; 
+           padding-bottom: 20px;     
+}
+
+#Holiday h2{
+            padding-top: 3%;
+            font-size: 18px;
+}
+
+article{
+        background-color: white;
+        padding: 12px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+}
+
+
+article img{
+    border-radius: 20px;
+    margin: auto;
+    display:inline;
+    box-shadow: 10px 10px 5px #E4E5EA;
+    height: 250px;
+    width:220px;
+    max-width: 100%;
+    margin-right: 15px;
+    margin-top: 15px;
+    min-width: 30vh;
+    padding-left: 5px;
+    
+
+}
+
+
+#aART{
+    text-decoration: none;
+    color: #306e5f;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: left;
+}
+
+#pART {
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: left;
+}
+
+
+section{
+    background-color: #e3e3e3;
+    padding: 7em;
+    margin-top: 20px;
+    margin-bottom: 1em;
+    background-image: url(../images/img_9.png);
+    background-size:cover;
+        
+}
+
+#aART2{
+    text-decoration: none;
+    color: #306e5f;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align:center;
+}
+
+#pART2{
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+}
+
+aside{
+    background-color: #e3e3e3;
+    padding: 7em;
+    margin-bottom: 1em;
+    background-image: url(../images/img_10.png);
+    background-size:cover;
+}
+
+#aART3{
+    text-decoration: none;
+    color: #306e5f;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align:center;
+}
+
+#pART3{
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+}
+
+
+
+footer{
+    background-color:#222F3F;
+    text-align: center;
+    line-height: 5;
+    
+    
+    
+    
+}
+
+#prova{
+    color: white;
+    background-color: #364759;
+    display: block;
+    font-size: small;
+    line-height: 2;
+    margin-bottom: 16px;
+}
+    
+    
+    
